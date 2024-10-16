@@ -1,7 +1,7 @@
 Charaxos and Larichos
 By Sappho
 Translated By William Logan
-
+============================================================
 Say what you like about Charaxos,
 that’s a fellow with a fat-bellied ship
 always in some port or other.
@@ -28,3 +28,5 @@ Then from that reeking sewer of my life
 I might haul up a bucket of spring water.
 
 *First stanza is missing, historically
+
+============================================================
